@@ -13,3 +13,7 @@ print(c)
 # git push
 
 d = 10  
+
+c = 40 
+s = 30 
+
